@@ -2,3 +2,5 @@ github.com/iki-rumondor/say_hello v0.0.0-20230822193819-aa673b09a980 h1:J+HiRmhk
 github.com/iki-rumondor/say_hello v0.0.0-20230822193819-aa673b09a980/go.mod h1:uzwRypmpCIK6wNJGBWhBeXVFdVevmzoeAYuuA5zxZiY=
 github.com/iki-rumondor/say_hello v1.0.0 h1:qTN+RRWJe6xnm7MouL0rW+xSfzVw1gFIdWJv9vhW9Ps=
 github.com/iki-rumondor/say_hello v1.0.0/go.mod h1:uzwRypmpCIK6wNJGBWhBeXVFdVevmzoeAYuuA5zxZiY=
+github.com/iki-rumondor/say_hello/v3 v3.0.0 h1:CNkYEHphas5IrgYNIDMbYkjaRYCqxN9TqIh4mDoOXL0=
+github.com/iki-rumondor/say_hello/v3 v3.0.0/go.mod h1:uudEyLb9cke9mLTDpBP6ijVf6fnQuXOdex2EmRY22jo=
